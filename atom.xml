@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Back to school]]></title>
+  <link href="http://screwdhila.github.io/atom.xml" rel="self"/>
+  <link href="http://screwdhila.github.io/"/>
+  <updated>2016-01-20T21:47:26+11:00</updated>
+  <id>http://screwdhila.github.io/</id>
+  <author>
+    <name><![CDATA[Maruful Hassan]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Gary Is Right No More Excuse]]></title>
+    <link href="http://screwdhila.github.io/blog/2016/01/20/gary-is-right-no-more-excuse/"/>
+    <updated>2016-01-20T00:00:00+11:00</updated>
+    <id>http://screwdhila.github.io/blog/2016/01/20/gary-is-right-no-more-excuse</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
